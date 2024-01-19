@@ -1,0 +1,7 @@
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay6\SnakeLadder\SnakeLadder\bin\Debug\SnakeLadder.exe.config
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay6\SnakeLadder\SnakeLadder\bin\Debug\SnakeLadder.exe
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay6\SnakeLadder\SnakeLadder\bin\Debug\SnakeLadder.pdb
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay6\SnakeLadder\SnakeLadder\obj\Debug\SnakeLadder.csproj.AssemblyReference.cache
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay6\SnakeLadder\SnakeLadder\obj\Debug\SnakeLadder.csproj.CoreCompileInputs.cache
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay6\SnakeLadder\SnakeLadder\obj\Debug\SnakeLadder.exe
+C:\Users\Prakhar\trainingday1\Trainingday1new\depp\Codes\UCDay6\SnakeLadder\SnakeLadder\obj\Debug\SnakeLadder.pdb
