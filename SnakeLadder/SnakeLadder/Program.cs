@@ -60,10 +60,7 @@ namespace SnakeLadder
                     {
                         break;
                     }
-                    /*else
-                    {
-                        player += dice;
-                    }*/
+                   
 
                     Console.WriteLine("\nYour new Position is: " + player + "\n");
                     play = wannaplay();
