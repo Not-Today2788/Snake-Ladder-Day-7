@@ -113,24 +113,7 @@ namespace SnakeLadder
             }
         }
 
-        /*
-        static int LadderPosition(int position, Random ran)
-        {
-            //int Min = ((position-1) / 10) * 10 + 1;
-            int Min = position;
-            //int Max = Math.Max(position+1, Min+10);
-            int Max = position + 6;
-
-            if (Min <= position && position <= Max)
-            {
-                return ran.Next(Min, Max);
-            }
-            else
-            {
-                return -1;
-            }
-        }
-        */
+        
 
     }
 }
