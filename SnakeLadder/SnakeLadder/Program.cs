@@ -37,12 +37,12 @@ namespace SnakeLadder
 
                     if (snake == player && player != 100)
                     {
-                        player -= dice; // Subtract the value obtained from the dice roll
+                        player -= dice; 
                     }
 
                     else if (ladder == player && player != 100)
                     {
-                        player += dice; // Add the value obtained from the dice roll
+                        player += dice; 
                     }
 
                     else if (ladder == player && snake == player)
